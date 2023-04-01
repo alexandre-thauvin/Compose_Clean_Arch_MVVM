@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Media Retriever</string>
+    <string name="unknown_error">Unknown Error</string>
+</resources>
