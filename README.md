@@ -86,4 +86,10 @@ of Dagger that makes DI easy and readible and customising according to build var
 - [MockK](https://mockk.io/) - Mocking library especially made for kotlin. Stable and easy to use.
 - [Turbine](https://github.com/cashapp/turbine) - kotlinx.coroutines Flow testing library. Testing your flow has never been easier.
 
+## TODO
+- Multimodular architecture
+- Pagination
+- Local data storage for data persistence with ROOM
+- Testing all layers
+
 
