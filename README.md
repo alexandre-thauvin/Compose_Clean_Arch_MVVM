@@ -7,6 +7,12 @@ to display a simple list of media. It was build with:
 - Datasource/Repository/Usecase pattern
 - Architecture Components
 
+## Table of Contents
+
+- [Architecture](#architecture)
+- [Testing](#testing)
+- [Libraries](#libraries)
+
 ## Architecture
 
 The Application is split into a three layer architecture:
