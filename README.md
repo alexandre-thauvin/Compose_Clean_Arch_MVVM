@@ -12,6 +12,7 @@ to display a simple list of media. It was build with:
 - [Architecture](#architecture)
 - [Testing](#testing)
 - [Libraries](#libraries)
+- [TODO](#todo)
 
 ## Architecture
 
